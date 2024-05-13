@@ -1,0 +1,6 @@
+.home{
+    display: grid;
+    padding-left: 15rem;
+    gap: 1rem;
+    margin: 0;
+}
